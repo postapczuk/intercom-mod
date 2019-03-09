@@ -44,9 +44,6 @@ cd hodor-remote-control
 
 It will generate apk file in folder mentioned above. 
 
-To use app just run the ![`hodor`](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/hodor-remote-control/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png "Hodor") app, set your Raspberry Pi ip and press `Open the door`
+To use app just run the ![`hodor`](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/hodor-remote-control/app/src/main/res/mipmap-mhdpi/ic_launcher.png "Hodor") app, set your Raspberry Pi ip and press `Open the door`
 
-[^1]: *If you have problem with installation just check the web how to enable installation of unknown sources*
-<p align="center">
-  <img src="https://github.com/postapczuk/intercom-mod/raw/master/unknown_sources.jpg" style="max-height:600px"/>
-</p>
+[^1]: *If you have problem with installation just check out the web how to enable installation of unknown sources*
