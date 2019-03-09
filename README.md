@@ -1,5 +1,5 @@
 # intercom-mod
-This README shows how to prepare the whole setup for controlling analogue intercom via Wi-Fi using your smatphone.
+This README shows how to prepare the whole setup for controlling analogue intercom via Wi-Fi using your Raspberry Pi & Android Smatphone.
 
 ## Stuff you need
 1. Raspberry Pi or other device with GPIO connected to your LAN
