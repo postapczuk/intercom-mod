@@ -6,7 +6,7 @@ This README shows how to prepare the whole setup for controlling analogue interc
 1. [S3-C relay](https://github.com/postapczuk/intercom-mod/blob/master/datasheets/S3.pdf.pdf) [^1]
 1. [BC547 b NPN transistor](https://github.com/postapczuk/intercom-mod/blob/master/datasheets/BC546_547_3.pdf) [^1]
 1. 1kOm resistor
-1. [breadboard](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/bread_board.jpg "breadboard") (if you don't have soldering iron) or [pcb universal board](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/pcb_board.png "pcb universal board")
+1. [breadboard](https://github.com/postapczuk/intercom-mod/blob/master/breadboard.jpg "breadboard") (if you don't have soldering iron) or [pcb universal board](https://github.com/postapczuk/intercom-mod/blob/master/pcb_board.jpg "pcb universal board")
 1. wires
 
 [^1]: *You can use different one, but keep in mind you need to chage the scheme*
