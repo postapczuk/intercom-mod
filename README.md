@@ -9,9 +9,6 @@ This README shows how to prepare the whole setup for controlling analogue interc
 1. [breadboard](https://github.com/postapczuk/intercom-mod/blob/master/breadboard.jpg "breadboard") (if you don't have soldering iron) or [pcb universal board](https://github.com/postapczuk/intercom-mod/blob/master/pcb_board.jpg "pcb universal board")
 1. wires
 
-## Schematic diagram
-TBD
-
 ## Server side
 You need to have python 2.7 on your device. Raspbian usually have installed package, so just to be sure you have correct version of python run the: 
 
@@ -40,6 +37,13 @@ cd hodor-remote-control
 It will generate apk file in folder mentioned above. 
 
 To use app just run the ![`hodor`](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/hodor-remote-control/app/src/main/res/mipmap-mdpi/ic_launcher.png "Hodor") app, set your Raspberry Pi ip and press `Open the door`
+
+## Schematic diagram
+![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/scheme.png)
+
+## Realisation
+![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/IMG_20190309_161232.jpg)
+![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/IMG_20190309_161323.jpg)
 
 ---------------------------------------
 
