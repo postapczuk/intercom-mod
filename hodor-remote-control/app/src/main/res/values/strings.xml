@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hodor</string>
+
+    <!-- Strings related to login -->
+    <string name="instance_url">Instance URL</string>
+    <string name="open_the_door">Open the door</string>
+</resources>

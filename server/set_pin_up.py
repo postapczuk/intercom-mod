@@ -2,11 +2,11 @@
 import RPi.GPIO as GPIO
 import time
 
-def open():
+def open(pin=10, lengthSeconds=3):
   print "opening the doors"
   GPIO.setmode(GPIO.BCM)
-  GPIO.setup(10,GPIO.OUT)
-  GPIO.output(10,GPIO.HIGH)
-  time.sleep(3)
+  GPIO.setup(pin,GPIO.OUT)
+  GPIO.output(pin,GPIO.HIGH)
+  time.sleep(lengthSeconds)
   GPIO.cleanup()
   print "doors opened"
