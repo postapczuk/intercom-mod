@@ -38,6 +38,8 @@ It will generate apk file in folder mentioned above.
 
 To use app just run the ![`hodor`](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/hodor-remote-control/app/src/main/res/mipmap-mdpi/ic_launcher.png "Hodor") app, set your Raspberry Pi ip and press `Open the door`
 
+<img src="https://raw.githubusercontent.com/postapczuk/intercom-mod/master/Screenshot_20190309-180612.png" width="300"/>
+
 ## Schematic diagram
 ![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/scheme.png)
 
