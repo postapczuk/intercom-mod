@@ -3,10 +3,10 @@ This README shows how to prepare the whole setup for controlling analogue interc
 
 ## Stuff you need
 1. Raspberry Pi or other device with GPIO connected to your LAN
-1. S3-C relay [^*]
-1. BC547 b NPN transistor [^1]
+1. [S3-C relay](https://github.com/postapczuk/intercom-mod/blob/master/datasheets/S3.pdf.pdf) [^1]
+1. [BC547 b NPN transistor](https://github.com/postapczuk/intercom-mod/blob/master/datasheets/BC546_547_3.pdf) [^1]
 1. 1kOm resistor
-1. contact plate (if you don't have soldering iron) or universal plate
+1. [breadboard](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/bread_board.jpg "breadboard") (if you don't have soldering iron) or [pcb universal board](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/pcb_board.png "pcb universal board")
 1. wires
 
 [^1]: *You can use different one, but keep in mind you need to chage the scheme*
