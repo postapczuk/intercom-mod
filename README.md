@@ -42,6 +42,7 @@ To use app just run the ![`hodor`](https://raw.githubusercontent.com/postapczuk/
 
 ## Schematic diagram
 ![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/scheme.png)
+If you encounter problems with reseting your control device you probably need also backflow diode on relay.
 
 ## Realisation
 ![scheme](https://raw.githubusercontent.com/postapczuk/intercom-mod/master/IMG_20190309_161232.jpg)
